@@ -1,0 +1,66 @@
+.img{
+	text-align: center;
+	padding-top: 85px;
+}
+.input{
+	text-align: center;
+	padding: 10px ;
+}
+input{
+	padding: 10px;
+	width: 400px;
+	border-radius: 30px;
+	border: 2px solid #ccc;
+	background: url(https://www.gstatic.com/images/branding/googlemic/2x/googlemic_color_24dp.png)no-repeat,
+	            url(./search.png)no-repeat;
+	background-size: 23px;
+	background-position: right 10px center, left 10px center;
+	cursor: pointer;
+}
+input:focus{
+	outline: none;
+	box-shadow: 2px 2px 2px 4px;
+}
+
+.btn{
+	text-align: center;
+	padding: 20px 0;
+}
+
+button{
+	padding: 8px 20px;
+	border: 1px solid #ccc;
+	margin-right: 10px;
+	cursor: pointer;
+}
+.fullCc li{
+
+	list-style: none;
+	display: inline;
+	padding: 0 10px;
+
+}
+.lang{
+	text-align: center;
+}
+
+.float{
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	border: 2px solid #ccc;	
+}
+.liy{
+	padding-right: 20px;
+}
+
+.sapatu{
+	position: fixed;
+	bottom: 0;
+	right: 0;
+
+}
+.lili{
+	padding-right: 20px;
+}

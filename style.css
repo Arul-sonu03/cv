@@ -1,0 +1,13 @@
+.img{
+	text-align: center;
+	padding-top: 85px;
+}
+.input{
+	text-align: center;
+	padding: 10px ;
+}
+input{
+	padding: 10px;
+	width: 300px;
+	border-radius: 30px;
+}
